@@ -1,9 +1,6 @@
 /*
 Elaborado por   :Ernesto García Maldonado
 Carrera         :Ingeniería en Tecnologías Computacionales
-Semestre        :Tercero
-Programa        :EliminacionGaussSimple.c
-Fecha           :01/10/2014
 */
 #include <stdio.h>
 #include <stdlib.h>
